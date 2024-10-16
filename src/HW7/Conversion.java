@@ -1,3 +1,5 @@
+package HW7;
+
 import java.util.Scanner;
 
 public class Conversion {
