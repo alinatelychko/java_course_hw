@@ -68,7 +68,7 @@ static  void positiveOrNegative (int a) {
         if (a%9==0){
             System.out.println("Число " + a + " ділиться на 9!");
         }
-        if ( a%2!=0 && a%3!=0 && a%5!=0 && a%6!=0 && a%9!=0 ){
+        if (((a % 2) != 0) && ((a % 3) != 0) && ((a % 5) != 0) && ((a % 9) != 0)){
             System.out.println("Число не ділиться на 2, 3, 5, 6 чи 9");
         }
 
