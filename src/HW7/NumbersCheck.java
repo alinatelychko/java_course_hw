@@ -27,16 +27,14 @@ public class NumbersCheck {
 
     }
 
-static  void positiveOrNegative (int a) {
+    static void positiveOrNegative(int a) {
 
-        if (a>=0){
-            System.out.println("Число " +a+ " є додатнім!");
+        if (a >= 0) {
+            System.out.println("Число " + a + " є додатнім!");
         } else {
-            System.out.println("Число " +a+ " є відʼємним!");
+            System.out.println("Число " + a + " є відʼємним!");
         }
     }
-
-
 
     static boolean isPrime(int num) {
         // Від'ємні числа, 0 і 1 не є простими
@@ -52,23 +50,23 @@ static  void positiveOrNegative (int a) {
         return true;
     }
 
-    static void divisibility (int a){
-        if (a%2==0){
+    static void divisibility(int a) {
+        if (a % 2 == 0) {
             System.out.println("Число " + a + " ділиться на 2!");
         }
-        if (a%3==0){
+        if (a % 3 == 0) {
             System.out.println("Число " + a + " ділиться на 3!");
         }
-        if (a%5==0){
+        if (a % 5 == 0) {
             System.out.println("Число " + a + " ділиться на 5!");
         }
-        if (a%6==0){
+        if (a % 6 == 0) {
             System.out.println("Число " + a + " ділиться на 6!");
         }
-        if (a%9==0){
+        if (a % 9 == 0) {
             System.out.println("Число " + a + " ділиться на 9!");
         }
-        if (((a % 2) != 0) && ((a % 3) != 0) && ((a % 5) != 0) && ((a % 9) != 0)){
+        if (((a % 2) != 0) && ((a % 3) != 0) && ((a % 5) != 0) && ((a % 9) != 0)) {
             System.out.println("Число не ділиться на 2, 3, 5, 6 чи 9");
         }
 

@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c671692c-32e7-4309-b449-53e4ba8539a4" name="Changes" comment="NumbersCheck">
-      <change afterPath="$PROJECT_DIR$/src/HW7/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW7/Powers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW7/powerOfThree.java" afterDir="false" />
+    <list default="true" id="c671692c-32e7-4309-b449-53e4ba8539a4" name="Changes" comment="all tasks completed">
+      <change afterPath="$PROJECT_DIR$/src/HW8/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW8/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW8/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW8/MinMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HW7/NumbersCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW7/NumbersCheck.java" afterDir="false" />
     </list>
@@ -52,8 +53,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Arithmetics.executor": "Run",
+    "Application.Bank.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.Conversion.executor": "Run",
+    "Application.Delivery.executor": "Run",
+    "Application.HW8.Calculator.executor": "Run",
+    "Application.MinMax.executor": "Run",
     "Application.NumbersCheck.executor": "Run",
     "Application.Powers.executor": "Run",
     "Application.powerOfThree.executor": "Run",
@@ -63,10 +68,24 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/alinatelychko/IdeaProjects/Java Course HW",
-    "onboarding.tips.debug.path": "/Users/alinatelychko/IdeaProjects/Methods HW7/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/alinatelychko/IdeaProjects/Methods HW7/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.HW8.Calculator">
+    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW8.Bank" />
+      <module name="Methods HW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW7.Calculator" />
       <module name="Methods HW7" />
@@ -80,19 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conversion" />
-      <module name="Methods HW7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumbersCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW7.NumbersCheck" />
+    <configuration name="Delivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW8.Delivery" />
       <module name="Methods HW7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW7.*" />
+          <option name="PATTERN" value="HW8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Powers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW7.Powers" />
+    <configuration name="HW8.Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW8.Calculator" />
       <module name="Methods HW7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW7.*" />
+          <option name="PATTERN" value="HW8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="powerOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW7.powerOfThree" />
+    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW8.MinMax" />
       <module name="Methods HW7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW7.*" />
+          <option name="PATTERN" value="HW8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW8.Calculator" />
+        <item itemvalue="Application.MinMax" />
+        <item itemvalue="Application.Delivery" />
+        <item itemvalue="Application.Bank" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Powers" />
-        <item itemvalue="Application.powerOfThree" />
-        <item itemvalue="Application.NumbersCheck" />
-        <item itemvalue="Application.Conversion" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729170897470</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="all tasks completed">
+      <option name="closed" value="true" />
+      <created>1729175890079</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729175890079</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,7 +262,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task3 conversion" />
     <MESSAGE value="NumbersCheck" />
-    <option name="LAST_COMMIT_MESSAGE" value="NumbersCheck" />
+    <MESSAGE value="all tasks completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="all tasks completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
