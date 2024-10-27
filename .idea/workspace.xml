@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c671692c-32e7-4309-b449-53e4ba8539a4" name="Changes" comment="all tasks completed">
-      <change afterPath="$PROJECT_DIR$/src/HW8/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW8/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW8/Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW8/MinMax.java" afterDir="false" />
+    <list default="true" id="c671692c-32e7-4309-b449-53e4ba8539a4" name="Changes" comment="Homework 8 completed">
+      <change afterPath="$PROJECT_DIR$/src/HW9/CustomerArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW7/NumbersCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW7/NumbersCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,7 @@
   <component name="ProjectId" id="2nWbOFLG2lr87XRA3wVVD75cANJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,6 +53,7 @@
     "Application.Bank.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.Conversion.executor": "Run",
+    "Application.CustomerArray.executor": "Run",
     "Application.Delivery.executor": "Run",
     "Application.HW8.Calculator.executor": "Run",
     "Application.MinMax.executor": "Run",
@@ -72,7 +70,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HW8.Calculator">
+  <component name="RunManager" selected="Application.CustomerArray">
     <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW8.Bank" />
       <module name="Methods HW7" />
@@ -86,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW7.Calculator" />
+    <configuration name="CustomerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW9.CustomerArray" />
       <module name="Methods HW7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW7.*" />
+          <option name="PATTERN" value="HW9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomerArray" />
         <item itemvalue="Application.HW8.Calculator" />
         <item itemvalue="Application.MinMax" />
         <item itemvalue="Application.Delivery" />
         <item itemvalue="Application.Bank" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729175890079</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Homework 8 completed">
+      <option name="closed" value="true" />
+      <created>1729285562623</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729285562623</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,7 +269,8 @@
     <MESSAGE value="task3 conversion" />
     <MESSAGE value="NumbersCheck" />
     <MESSAGE value="all tasks completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="all tasks completed" />
+    <MESSAGE value="Homework 8 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 8 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
