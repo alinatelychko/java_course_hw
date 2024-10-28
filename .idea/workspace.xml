@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c671692c-32e7-4309-b449-53e4ba8539a4" name="Changes" comment="Homework 8 completed">
-      <change afterPath="$PROJECT_DIR$/src/HW9/CustomerArray.java" afterDir="false" />
+    <list default="true" id="c671692c-32e7-4309-b449-53e4ba8539a4" name="Changes" comment="Homework 9 , first task complited">
+      <change afterPath="$PROJECT_DIR$/src/HW9/ReversedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW9/UserArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,8 @@
     "Application.MinMax.executor": "Run",
     "Application.NumbersCheck.executor": "Run",
     "Application.Powers.executor": "Run",
+    "Application.ReversedArray.executor": "Run",
+    "Application.UserArray.executor": "Run",
     "Application.powerOfThree.executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,39 +73,13 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CustomerArray">
-    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW8.Bank" />
-      <module name="Methods HW7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UserArray">
     <configuration name="CustomerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW9.CustomerArray" />
       <module name="Methods HW7" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HW9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Delivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW8.Delivery" />
-      <module name="Methods HW7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,13 +113,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReversedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW9.ReversedArray" />
+      <module name="Methods HW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW9.UserArray" />
+      <module name="Methods HW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserArray" />
+        <item itemvalue="Application.ReversedArray" />
         <item itemvalue="Application.CustomerArray" />
         <item itemvalue="Application.HW8.Calculator" />
         <item itemvalue="Application.MinMax" />
-        <item itemvalue="Application.Delivery" />
-        <item itemvalue="Application.Bank" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729285562623</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Homework 9 , first task complited">
+      <option name="closed" value="true" />
+      <created>1730058930416</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730058930416</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,7 +281,8 @@
     <MESSAGE value="NumbersCheck" />
     <MESSAGE value="all tasks completed" />
     <MESSAGE value="Homework 8 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 8 completed" />
+    <MESSAGE value="Homework 9 , first task complited" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 9 , first task complited" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
