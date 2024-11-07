@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c671692c-32e7-4309-b449-53e4ba8539a4" name="Changes" comment="Homework 9 completed">
-      <change afterPath="$PROJECT_DIR$/src/OOP_HW1/FirstTask/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_HW1/FirstTask/Rectangle.java" afterDir="false" />
+    <list default="true" id="c671692c-32e7-4309-b449-53e4ba8539a4" name="Changes" comment="oop hw1 1st task">
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW1/fourthTask/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW1/fourthTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW1/secondTask/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW1/secondTask/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW1/secondTask/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW1/secondTask/Title.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW1/thirdTask/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW1/thirdTask/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +58,7 @@
   "keyToString": {
     "Application.Arithmetics.executor": "Run",
     "Application.Bank.executor": "Run",
+    "Application.Book.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.Conversion.executor": "Run",
     "Application.CustomerArray.executor": "Run",
@@ -60,6 +67,8 @@
     "Application.Main.executor": "Run",
     "Application.MinMax.executor": "Run",
     "Application.NumbersCheck.executor": "Run",
+    "Application.OOP_HW1.fourthTask.Main.executor": "Run",
+    "Application.OOP_HW1.thirdTask.Main.executor": "Run",
     "Application.Powers.executor": "Run",
     "Application.ReversedArray.executor": "Run",
     "Application.Task5.executor": "Run",
@@ -77,7 +86,20 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.OOP_HW1.fourthTask.Main">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_HW1.secondTask.Book" />
+      <module name="Methods HW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_HW1.secondTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP_HW1.FirstTask.Main" />
       <module name="Methods HW7" />
@@ -91,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW9.Task5" />
+    <configuration name="OOP_HW1.fourthTask.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_HW1.fourthTask.Main" />
       <module name="Methods HW7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW9.*" />
+          <option name="PATTERN" value="OOP_HW1.fourthTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW9.Task6" />
+    <configuration name="OOP_HW1.thirdTask.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_HW1.thirdTask.Main" />
       <module name="Methods HW7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW9.*" />
+          <option name="PATTERN" value="OOP_HW1.thirdTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,26 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW9.UserArray" />
-      <module name="Methods HW7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOP_HW1.fourthTask.Main" />
+        <item itemvalue="Application.OOP_HW1.thirdTask.Main" />
+        <item itemvalue="Application.Book" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.UserArray" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730118729055</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="oop hw1 1st task">
+      <option name="closed" value="true" />
+      <created>1731001670497</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731001670497</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,7 +321,8 @@
     <MESSAGE value="Homework 9 , first task complited" />
     <MESSAGE value="Homework 9 , second task completed" />
     <MESSAGE value="Homework 9 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 9 completed" />
+    <MESSAGE value="oop hw1 1st task" />
+    <option name="LAST_COMMIT_MESSAGE" value="oop hw1 1st task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
