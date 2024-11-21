@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c671692c-32e7-4309-b449-53e4ba8539a4" name="Changes" comment="oop hw8 in progress">
-      <change afterPath="$PROJECT_DIR$/src/OOP_HW8/task3/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_HW8/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_HW8/task4/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_HW8/task4/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_HW8/task4/Main.java" afterDir="false" />
+    <list default="true" id="c671692c-32e7-4309-b449-53e4ba8539a4" name="Changes" comment="oop hw8 done">
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW9/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW9/task1/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW9/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW9/task2/MyDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW9/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_HW9/task3/MyClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -89,6 +90,8 @@
     "Application.OOP_HW8.task2.Main.executor": "Run",
     "Application.OOP_HW8.task3.Main.executor": "Run",
     "Application.OOP_HW8.task4.Main.executor": "Run",
+    "Application.OOP_HW9.task2.Main.executor": "Run",
+    "Application.OOP_HW9.task3.Main.executor": "Debug",
     "Application.Powers.executor": "Run",
     "Application.ReversedArray.executor": "Run",
     "Application.Task5.executor": "Run",
@@ -117,39 +120,13 @@
       <recent name="OOP_HW7.task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OOP_HW8.task4.Main">
-    <configuration name="OOP_HW7.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_HW7.task3.Main" />
+  <component name="RunManager" selected="Application.OOP_HW9.task3.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_HW9.task1.Main" />
       <module name="Methods HW7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_HW7.task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OOP_HW8.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_HW8.task1.Main" />
-      <module name="Methods HW7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP_HW8.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OOP_HW8.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_HW8.task2.Main" />
-      <module name="Methods HW7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OOP_HW8.task2.*" />
+          <option name="PATTERN" value="OOP_HW9.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,13 +160,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OOP_HW9.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_HW9.task2.Main" />
+      <module name="Methods HW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_HW9.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOP_HW9.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_HW9.task3.Main" />
+      <module name="Methods HW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_HW9.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOP_HW9.task3.Main" />
+        <item itemvalue="Application.OOP_HW9.task2.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.OOP_HW8.task4.Main" />
         <item itemvalue="Application.OOP_HW8.task3.Main" />
-        <item itemvalue="Application.OOP_HW8.task2.Main" />
-        <item itemvalue="Application.OOP_HW8.task1.Main" />
-        <item itemvalue="Application.OOP_HW7.task3.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +365,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731966980257</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="oop hw8 done">
+      <option name="closed" value="true" />
+      <created>1732129592015</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1732129592015</updated>
+    </task>
+    <task id="LOCAL-00022" summary="oop hw8 done">
+      <option name="closed" value="true" />
+      <created>1732129802102</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1732129802102</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,7 +452,8 @@
     <MESSAGE value="oop hw5 completed" />
     <MESSAGE value="oop hw7 completed" />
     <MESSAGE value="oop hw8 in progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="oop hw8 in progress" />
+    <MESSAGE value="oop hw8 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="oop hw8 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
