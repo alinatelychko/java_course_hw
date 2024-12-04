@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c671692c-32e7-4309-b449-53e4ba8539a4" name="Changes" comment="oop hw9 done">
-      <change afterPath="$PROJECT_DIR$/src/Adv_HW1/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adv_HW1/task2/interface_comparable/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adv_HW1/task2/interface_comparable/Main.java" afterDir="false" />
+    <list default="true" id="c671692c-32e7-4309-b449-53e4ba8539a4" name="Changes" comment="Adv hw1 done">
+      <change afterPath="$PROJECT_DIR$/src/Adv_HW2/task1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -120,7 +118,7 @@
       <recent name="OOP_HW7.task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Adv_HW1.task2.interface_comparable.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Adv_HW1.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Adv_HW1.task1.Main" />
       <module name="Methods HW7" />
@@ -147,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_HW9.task1.Main" />
+    <configuration name="Arithmetics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW7.Arithmetics" />
       <module name="Methods HW7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_HW9.task1.*" />
+          <option name="PATTERN" value="HW7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOP_HW9.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP_HW9.task2.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adv_HW2.task1.Main" />
       <module name="Methods HW7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP_HW9.task2.*" />
+          <option name="PATTERN" value="Adv_HW2.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Adv_HW1.task2.interface_comparable.Main" />
+        <item itemvalue="Application.Arithmetics" />
         <item itemvalue="Application.Adv_HW1.task1.Main" />
         <item itemvalue="Application.OOP_HW9.task3.Main" />
-        <item itemvalue="Application.OOP_HW9.task2.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732225873222</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Adv hw1 done">
+      <option name="closed" value="true" />
+      <created>1732229371421</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1732229371421</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +468,8 @@
     <MESSAGE value="oop hw8 in progress" />
     <MESSAGE value="oop hw8 done" />
     <MESSAGE value="oop hw9 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="oop hw9 done" />
+    <MESSAGE value="Adv hw1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adv hw1 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
